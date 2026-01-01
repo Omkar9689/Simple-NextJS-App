@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import "./newyear.css";
+import "./globals.css";
 
 export default function NewYearPage() {
   return (
