@@ -14,7 +14,7 @@ pipeline{
 
         stage('Test'){
             steps{
-                bat 'Skipping Testing'
+                echo 'Skipping Testing'
             }
         }
 
