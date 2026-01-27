@@ -21,7 +21,7 @@ export default function NewYearPage() {
         transition={{ delay: 0.6 }}
         className="ny-subtitle"
       >
-        Dream Big • Work Hard • Stay Consistent
+        Dream Big • Work Hard • Stay Consistent • Stay Foolish
       </motion.p>
 
       <div className="confetti">
